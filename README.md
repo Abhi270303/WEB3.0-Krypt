@@ -1,2 +1,4 @@
-# WEB3.0-Krypt
-Using Web 3.0 methodologies, Solidity and Metamask
+# Krypt - Web 3.0 Blockchain Application
+![Krypt](https://i.ibb.co/DVF4tNW/image.png)
+
+Using Web 3.0 methodologies, Solidity and Metamask to build a real Web 3.0 Application.
